@@ -1,0 +1,2 @@
+# dhadoop
+minihadoop implement
