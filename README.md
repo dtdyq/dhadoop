@@ -1,2 +1,2 @@
 # dhadoop
-minihadoop implement
+hadoop learn
